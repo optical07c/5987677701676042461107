@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646130871673",
+    "project_id": "fake-call-wednesday",
+    "storage_bucket": "fake-call-wednesday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646130871673:android:0bab46e128af08591d93a8",
+        "android_client_info": {
+          "package_name": "com.wednesday_adams.fakecall.prank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646130871673-mmvfhq50ph1ec7agjksn6pc0u2fghodt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCb09iM8aNqhtZNKezkYnNN505_PU5Wuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646130871673-mmvfhq50ph1ec7agjksn6pc0u2fghodt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
